@@ -1,0 +1,25 @@
+
+Date : 28/06/2025 | Time : 13:16 | Method : GET | URL : /api/users | IP Address : ::1
+Date : 28/06/2025 | Time : 13:16 | Method : GET | URL : /api/users | IP Address : ::1
+Date : 28/06/2025 | Time : 13:22 | Method : GET | URL : /api/users | IP Address : ::1
+Date : 28/06/2025 | Time : 13:23 | Method : POST | URL : /api/users | IP Address : ::1
+Date : 28/06/2025 | Time : 13:23 | Method : GET | URL : /api/users | IP Address : ::1
+Date : 28/06/2025 | Time : 13:23 | Method : POST | URL : /api/users | IP Address : ::1
+Date : 28/06/2025 | Time : 13:23 | Method : GET | URL : /api/users | IP Address : ::1
+Date : 28/06/2025 | Time : 13:24 | Method : DELETE | URL : /api/user/685f9f7101de46d82a30684a | IP Address : ::1
+Date : 28/06/2025 | Time : 13:24 | Method : DELETE | URL : /api/users/685f9f7101de46d82a30684a | IP Address : ::1
+Date : 28/06/2025 | Time : 13:27 | Method : GET | URL : /api/users | IP Address : ::1
+Date : 28/06/2025 | Time : 13:31 | Method : POST | URL : /api/users | IP Address : ::1
+Date : 28/06/2025 | Time : 13:31 | Method : GET | URL : /api/users | IP Address : ::1
+Date : 28/06/2025 | Time : 13:32 | Method : PATCH | URL : /api/user/685fa14301de46d82a306852 | IP Address : ::1
+Date : 28/06/2025 | Time : 13:32 | Method : PATCH | URL : /api/users/685fa14301de46d82a306852 | IP Address : ::1
+Date : 28/06/2025 | Time : 13:34 | Method : PATCH | URL : /api/users/685fa14301de46d82a306852 | IP Address : ::1
+Date : 28/06/2025 | Time : 13:36 | Method : GET | URL : /api/users | IP Address : ::1
+Date : 28/06/2025 | Time : 13:36 | Method : PATCH | URL : /api/users/685fa14301de46d82a306852 | IP Address : ::1
+Date : 28/06/2025 | Time : 13:36 | Method : GET | URL : /api/users | IP Address : ::1
+Date : 28/06/2025 | Time : 13:37 | Method : POST | URL : /api/users | IP Address : ::1
+Date : 28/06/2025 | Time : 13:37 | Method : GET | URL : /api/users | IP Address : ::1
+Date : 28/06/2025 | Time : 13:37 | Method : DELETE | URL : /api/users/685fa2a4a2760eb78cfc9f0f | IP Address : ::1
+Date : 28/06/2025 | Time : 13:37 | Method : GET | URL : /api/users | IP Address : ::1
+Date : 28/06/2025 | Time : 13:38 | Method : GET | URL : /api/users | IP Address : ::1
+Date : 28/06/2025 | Time : 13:38 | Method : GET | URL : /api/users/68562d16c714548bd9fbdbf4 | IP Address : ::1
